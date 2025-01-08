@@ -1,6 +1,9 @@
 <template>
     <Header />
-    <slot />
+    <main>
+        <slot />
+    </main>
+    <Toast />
 </template>
 
 <script setup lang="ts">
