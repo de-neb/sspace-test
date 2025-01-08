@@ -1,0 +1,74 @@
+{
+    "data": [
+      {
+        "addedBy": "client",
+        "agencyBannerImage": "https://stmp-prod.ams3.cdn.digitaloceanspaces.com/1732726898184_PureLM_logo_WHITE_ON_TEAL20.3.15.jpg",
+        "agencyExternalLink": "https://so-net.ne.jp/in.json?lacus=aliquam&purus=erat&aliquet=volutpat&at=in&feugiat=congue&non=etiam&pretium=justo&quis=etiam&lectus=pretium&suspendisse=iaculis&potenti=justo&in=in&eleifend=hac&quam=habitasse&a=platea&odio=dictumst&in=etiam&hac=faucibus&habitasse=cursus&platea=urna&dictumst=ut&maecenas=tellus&ut=nulla&massa=ut&quis=erat&augue=id&luctus=mauris&tincidunt=vulputate&nulla=elementum&mollis=nullam&molestie=varius&lorem=nulla&quisque=facilisi&ut=cras&erat=non&curabitur=velit&gravida=nec&nisi=nisi&at=vulputate&nibh=nonummy&in=maecenas&hac=tincidunt&habitasse=lacus&platea=at&dictumst=velit&aliquam=vivamus&augue=vel&quam=nulla&sollicitudin=eget&vitae=eros&consectetuer=elementum&eget=pellentesque",
+        "agencyId": "01JH264Z602SGCBZG60HNWP823",
+        "agencyLocations": [
+          "United States"
+        ],
+        "agencyLogoImage": "https://stmp-prod.ams3.cdn.digitaloceanspaces.com/1732726494965_PureLM_logo_WHITE_ON_TEAL20.3.15.jpg",
+        "agencyName": "Pure"
+      },
+      {
+        "addedBy": "studiospace",
+        "agencyBannerImage": "https://stmp-prod.ams3.cdn.digitaloceanspaces.com/1732533013179_GW_Facebook_Banner.jpg",
+        "agencyExternalLink": "http://paypal.com/at/turpis.json?in=eros&faucibus=suspendisse&orci=accumsan&luctus=tortor&et=quis&ultrices=turpis&posuere=sed&cubilia=ante&curae=vivamus&duis=tortor&faucibus=duis&accumsan=mattis&odio=egestas&curabitur=metus&convallis=aenean",
+        "agencyId": "01JH264Z6D782QN9P5DGPRXW39",
+        "agencyLocations": [
+          "Thailand",
+          "Australia"
+        ],
+        "agencyLogoImage": "https://stmp-prod.ams3.cdn.digitaloceanspaces.com/1732532388474_Gravitywell_LinkedIn_Profile_Photo.jpg",
+        "agencyName": "Gravitywell"
+      },
+      {
+        "addedBy": "client",
+        "agencyBannerImage": "https://stmp-prod.ams3.cdn.digitaloceanspaces.com/1732540378368_TLDR_Linkedin_Banner_(1).jpg",
+        "agencyExternalLink": "http://miitbeian.gov.cn/lectus.png?cursus=maecenas&vestibulum=rhoncus&proin=aliquam&eu=lacus&mi=morbi&nulla=quis&ac=tortor&enim=id&in=nulla&tempor=ultrices&turpis=aliquet&nec=maecenas&euismod=leo&scelerisque=odio&quam=condimentum&turpis=id&adipiscing=luctus&lorem=nec&vitae=molestie&mattis=sed&nibh=justo&ligula=pellentesque&nec=viverra&sem=pede&duis=ac&aliquam=diam&convallis=cras",
+        "agencyId": "01JH264Z4NQDTN05DC2WH70X38",
+        "agencyLocations": [
+          "United Kingdom"
+        ],
+        "agencyLogoImage": "https://stmp-prod.ams3.cdn.digitaloceanspaces.com/1732540329697_TLDR_Marketplace_Logo.jpg",
+        "agencyName": "TL;DR"
+      },
+      {
+        "addedBy": "studiospace",
+        "agencyBannerImage": "https://stmp-prod.ams3.cdn.digitaloceanspaces.com/1729885215276_Screenshot_2024-10-25_at_20.39.38.png",
+        "agencyExternalLink": "http://icio.us/at/diam/nam.js?cum=nulla&sociis=ac&natoque=enim&penatibus=in&et=tempor&magnis=turpis&dis=nec&parturient=euismod&montes=scelerisque&nascetur=quam&ridiculus=turpis&mus=adipiscing&etiam=lorem&vel=vitae",
+        "agencyId": "01JH264Z5FPY7YS91D7MEVMT96",
+        "agencyLocations": [
+          "Japan",
+          "United States"
+        ],
+        "agencyLogoImage": "https://stmp-prod.ams3.cdn.digitaloceanspaces.com/1729884542767_62cd2fb0a0086874e911481b_logo383.svg",
+        "agencyName": "Screenshot"
+      },
+      {
+        "addedBy": "client",
+        "agencyBannerImage": "https://stmp-prod.ams3.cdn.digitaloceanspaces.com/1728316080284_Reech_DesktopWallpaper_iMac_Wordmark.jpg",
+        "agencyExternalLink": "https://google.com",
+        "agencyId": "98097354-0334",
+        "agencyLocations": [
+          "United States"
+        ],
+        "agencyLogoImage": "https://stmp-prod.ams3.cdn.digitaloceanspaces.com/1728315785054_Reech_-_Icon_-_Invert.jpg",
+        "agencyName": "Agency Inc."
+      },
+      {
+        "addedBy": "studiospace",
+        "agencyBannerImage": "https://stmp-prod.ams3.cdn.digitaloceanspaces.com/1721146683561_AMAN_NY_JH_LIFESTYLE_13786_2_copy.jpg",
+        "agencyExternalLink": "https://google.com",
+        "agencyId": "38423-12412497",
+        "agencyLocations": [
+          "Australia",
+          "United Kingdom"
+        ],
+        "agencyLogoImage": "https://stmp-prod.ams3.cdn.digitaloceanspaces.com/1721146238694_SOW_BLACK_LOGO.jpg",
+        "agencyName": "Test Agency Name"
+      }
+    ]
+  }
+  
